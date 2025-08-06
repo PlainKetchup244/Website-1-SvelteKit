@@ -3,7 +3,7 @@
         <div class="inner">
             <div class="hero-content bg-gradient-blue white flow">
                 <h1>This is a template Page</h1>
-                <p class="white">This will be a paragraph, edit this to be a paragraph when using this template.</p>
+                <p class="white">This will be a paragraph, edit this to be a paragraph when using this template. Note that this is made by following a guide for a class.</p>
                 <a href="/" class="button bg-gradient-pink white">Get Started</a>
             </div>
         </div>
