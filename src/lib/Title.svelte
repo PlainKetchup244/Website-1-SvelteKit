@@ -9,3 +9,9 @@
         </div>
     </div>
 </section>
+
+<style>
+    h1 {
+        text-transform: capitalize;
+    }
+</style>
