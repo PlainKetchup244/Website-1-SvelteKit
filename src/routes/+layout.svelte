@@ -1,5 +1,5 @@
 <script>
-    import "$lib/style.css"
+    import "$lib/Style.css"
 	import Footer from "$lib/Footer.svelte";
     import Header from "$lib/Header.svelte";
 </script>
