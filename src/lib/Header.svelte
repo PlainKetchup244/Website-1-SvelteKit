@@ -17,18 +17,23 @@
                         <a href="/contact">Contact</a>
                     </li>
                     <li>
-                        <a href="/" class="button bg-gradient-pink white">Get Started</a>  
+                        <a href="/" class="button bg-gradient-blue white">Get Started</a>  
                     </li>
                 </ul>
             </nav>
         </div>
     </div>
     </header>
+
 <style>
     .inner {
         padding-block: 1.5rem;
     }
     ul {
         list-style: none;
+    }
+
+    .button:hover {
+        background-image: var(--gradient-pink);
     }
 </style>
